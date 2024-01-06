@@ -9,10 +9,14 @@ For the competitions final, the board only partly worked due to software issues 
 
 
 
-https://raw.githubusercontent.com/AminMourad/svm/main/media/trailer.mp4
+https://github.com/AminMourad/svm/assets/150685923/68f24b89-b776-4063-8113-d7b512756581
 
 ![both boards and figures prior to game start](https://github.com/AminMourad/svm/blob/main/media/boards-at-setup.jpg?raw=true)
 
 ![PCB inside the board](https://github.com/AminMourad/svm/blob/main/media/pcb-in-board.jpg?raw=true)
 
 ![under the hood of the board, PCB from underneith](https://github.com/AminMourad/svm/blob/main/media/under-the-hood.JPG?raw=true)
+
+
+
+
