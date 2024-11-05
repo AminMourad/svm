@@ -9,7 +9,23 @@ For the competitions final, the board only partly worked due to software issues 
 
 https://github.com/AminMourad/svm/assets/150685923/5249b996-46aa-4285-ab90-c30cc13d6822
 
-![both boards and figures prior to game start](https://github.com/AminMourad/svm/blob/main/media/boards-at-setup.jpg?raw=true)
+<details>
+<summary>German Showcase on Youtube</summary>
+  
+[![German Explainer on Youtube](https://i.imgur.com/Ra8uUQc.jpeg)](https://youtu.be/GJIagp3J2kE)
+</details>
+<details>
+<summary>English Showcase on Youtube</summary>
+  
+[![English Explainer on Youtube](https://i.imgur.com/nrAp1VY.jpeg)](https://youtu.be/6_ybZnLNedE)
+</details>
+
+
+![both boards behind each other](https://github.com/AminMourad/svm/blob/main/media/boards.jpeg?raw=true)
+
+![closeup of one of the boards after start](https://github.com/AminMourad/svm/blob/main/media/board-closeup.jpeg?raw=true)
+
+![board from above, showing the placement of all the display](https://github.com/AminMourad/svm/blob/main/media/baord-overhead.jpeg?raw=true)
 
 ![PCB inside the board](https://github.com/AminMourad/svm/blob/main/media/pcb-in-board.jpg?raw=true)
 
