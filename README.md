@@ -25,7 +25,7 @@ https://github.com/AminMourad/svm/assets/150685923/5249b996-46aa-4285-ab90-c30cc
 
 ![closeup of one of the boards after start](https://github.com/AminMourad/svm/blob/main/media/board-closeup.jpeg?raw=true)
 
-![board from above, showing the placement of all the display](https://github.com/AminMourad/svm/blob/main/media/baord-overhead.jpeg?raw=true)
+![board from above, showing the placement of all the display](https://github.com/AminMourad/svm/blob/main/media/board-overhead.jpeg?raw=true)
 
 ![PCB inside the board](https://github.com/AminMourad/svm/blob/main/media/pcb-in-board.jpg?raw=true)
 
