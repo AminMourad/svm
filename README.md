@@ -12,12 +12,12 @@ https://github.com/AminMourad/svm/assets/150685923/5249b996-46aa-4285-ab90-c30cc
 <details>
 <summary>German Showcase on Youtube</summary>
   
-[![German Explainer on Youtube](https://i.imgur.com/Ra8uUQc.jpeg)](https://youtu.be/GJIagp3J2kE)
+[![German Explainer on Youtube](https://i.imgur.com/Ra8uUQc.jpeg)](https://youtu.be/6_ybZnLNedE)
 </details>
 <details>
 <summary>English Showcase on Youtube</summary>
   
-[![English Explainer on Youtube](https://i.imgur.com/nrAp1VY.jpeg)](https://youtu.be/6_ybZnLNedE)
+[![English Explainer on Youtube](https://i.imgur.com/nrAp1VY.jpeg)](https://youtu.be/GJIagp3J2kE)
 </details>
 
 
